@@ -244,15 +244,15 @@ input:focus {
     margin: 0 auto;
 }
 
-.filter > div > div {
+.filter>div .category {
     padding-bottom: 20px;
 }
 
-.filter>div>div:last-child {
+.filter>div .category:last-child {
     padding-bottom: 55px;
 }
 
-.filter .ram div:last-child {
+.filter .ram .category:last-child {
     padding-bottom: 0px;
 }
 
