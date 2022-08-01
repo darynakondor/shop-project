@@ -9,7 +9,6 @@ addToCartBtns.forEach((item) =>
 );
 
 
-
 let buttonLike = document.querySelectorAll(".icon-like");
 buttonLike.forEach((item) => {
     item.addEventListener("click", function(e) {
